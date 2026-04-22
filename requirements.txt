@@ -1,7 +1,6 @@
-streamlit
-tensorflow-cpu==2.13.0
-numpy
-pandas
+flask
+gunicorn
 opencv-python
+mediapipe
 scikit-learn
-matplotlib
+numpy
